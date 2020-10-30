@@ -1,4 +1,4 @@
-This is an algorithm using Donald Knuth's algorithm x to find bblock designs.
+This is an algorithm used to find balanced incomplete block designs with \lambda = 1.
 
 IMPORTANT:
 
@@ -8,4 +8,9 @@ This is because the modules you install via pip are old versions of modules and 
 
 I have modified those modules aswell to make them work with Python 3.8
 
+
+REFERENCES:
+
+Donald Knuth's Algorithm X
+https://github.com/sraaphorst/dlx_python
 
