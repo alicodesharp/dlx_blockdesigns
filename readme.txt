@@ -2,7 +2,7 @@ This is an algorithm used to find balanced incomplete block designs with \lambda
 
 IMPORTANT:
 
-Please instead of installing modules pyncomb and dlx with pip, download the site-packages file I am uploading to repository.
+Please instead of installing modules pyncomb and dlx with pip, download the site-packages file I am uploading to repository and place it under lib in your venv.
 
 This is because the modules you install via pip are old versions of modules and they cause errors.
 
